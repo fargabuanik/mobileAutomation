@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12065" started-at="2023-01-06T21:19:08 EST" finished-at="2023-01-06T21:19:20 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12065" started-at="2023-01-06T21:19:08 EST" finished-at="2023-01-06T21:19:20 EST">
+      <class name="ecmmerce.InstallationFile_Test">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:ecmmerce.InstallationFile_Test@6eceb130]" name="setUp" is-config="true" duration-ms="7227" started-at="2023-01-06T21:19:08 EST" finished-at="2023-01-06T21:19:15 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[installationFile]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:ecmmerce.InstallationFile_Test@6eceb130]" name="test" duration-ms="4525" started-at="2023-01-06T21:19:16 EST" finished-at="2023-01-06T21:19:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="quittingDriver()[pri:0, instance:ecmmerce.InstallationFile_Test@6eceb130]" name="quittingDriver" is-config="true" duration-ms="234" started-at="2023-01-06T21:19:20 EST" finished-at="2023-01-06T21:19:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quittingDriver -->
+      </class> <!-- ecmmerce.InstallationFile_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
